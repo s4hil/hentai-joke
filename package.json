@@ -1,0 +1,19 @@
+{
+  "name": "hentai-joke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "audic": "^3.0.1",
+    "nodemon": "^2.0.20",
+    "play": "^0.5.0",
+    "sound-play": "^1.1.0",
+    "usb-detection": "^4.14.1"
+  }
+}
